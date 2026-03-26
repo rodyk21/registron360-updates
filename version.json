@@ -1,6 +1,1 @@
-{
-  "version": "1.0.2",
-  "mensaje": "Versión inicial.",
-  "url": "",
-  "obligatoria": false
-}
+{"version": "10.5","features": ["automatic registration","alert history","monthly summary improvements","dark mode enhancements"]}
