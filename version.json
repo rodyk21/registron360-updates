@@ -1,1 +1,12 @@
-{"version": "10.5","features": ["automatic registration","alert history","monthly summary improvements","dark mode enhancements"]}
+{
+  "version": "1.0.5",
+  "mensaje": "Base estable actual de RGTN360. La siguiente subida puede publicarse desde GitHub Releases.",
+  "url": "https://github.com/rodyk21/registron360-updates/releases",
+  "obligatoria": false,
+  "features": [
+    "automatic registration",
+    "alert history",
+    "monthly summary improvements",
+    "dark mode enhancements"
+  ]
+}
