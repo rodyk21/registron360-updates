@@ -1,12 +1,13 @@
 {
-  "version": "1.0.5",
-  "mensaje": "Base estable actual de RGTN360. La siguiente subida puede publicarse desde GitHub Releases.",
-  "url": "https://github.com/rodyk21/registron360-updates/releases",
+  "version": "1.0.6",
+  "mensaje": "Nueva version de RGTN360 con mejoras en backups, restauracion, tema oscuro y acceso directo al calendario adjunto.",
+  "url": "https://github.com/rodyk21/registron360-updates/raw/main/RGTN360.apk",
   "obligatoria": false,
   "features": [
-    "automatic registration",
-    "alert history",
-    "monthly summary improvements",
-    "dark mode enhancements"
+    "backups con adjuntos de nomina y calendario",
+    "restauracion mas completa de configuracion y tema visual",
+    "nombre corto y claro para las copias de seguridad",
+    "boton directo para ver el calendario adjunto",
+    "paquete ligero arm64 para moviles modernos"
   ]
 }
