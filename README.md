@@ -16,9 +16,9 @@ Ejemplo:
 
 ```json
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "mensaje": "Mejoras en auto-registro, backups y modo oscuro.",
-  "url": "https://github.com/rodyk21/registron360-updates/releases/download/v1.0.6/RGTN360.apk",
+  "url": "https://github.com/rodyk21/registron360-updates/raw/main/RGTN360.apk",
   "obligatoria": false
 }
 ```

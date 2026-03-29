@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "mensaje": "Nueva version de RGTN360 con mejoras en backups, restauracion, tema oscuro y acceso directo al calendario adjunto.",
+  "version": "1.0.7",
+  "mensaje": "Version 1.0.7 de prueba para validar la actualizacion desde el movil. Incluye mejoras en backups, restauracion, tema oscuro y acceso directo al calendario adjunto.",
   "url": "https://github.com/rodyk21/registron360-updates/raw/main/RGTN360.apk",
   "obligatoria": false,
   "features": [
