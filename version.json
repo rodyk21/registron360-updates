@@ -1,13 +1,13 @@
 {
-  "version": "1.0.7",
-  "mensaje": "Version 1.0.7 de prueba para validar la actualizacion desde el movil. Incluye mejoras en backups, restauracion, tema oscuro y acceso directo al calendario adjunto.",
+  "version": "1.0.8",
+  "mensaje": "Agenda: nuevo tipo Valle en verde claro, Vacaciones en verde oscuro y tipos de dia personalizados con nombre y color propios. Los tipos personalizados se guardan en el backup JSON y se respetan al rellenar patrones.",
   "url": "https://github.com/rodyk21/registron360-updates/raw/main/RGTN360.apk",
   "obligatoria": false,
   "features": [
-    "backups con adjuntos de nomina y calendario",
-    "restauracion mas completa de configuracion y tema visual",
-    "nombre corto y claro para las copias de seguridad",
-    "boton directo para ver el calendario adjunto",
+    "Valle en verde claro y Vacaciones en verde oscuro",
+    "tipos de dia con nombre y color personalizados",
+    "edicion de tipos desde la agenda",
+    "tipos personalizados incluidos en el backup JSON",
     "paquete ligero arm64 para moviles modernos"
   ]
 }
