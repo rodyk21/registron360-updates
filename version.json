@@ -1,9 +1,10 @@
 {
-  "version": "1.0.8",
-  "mensaje": "Agenda: nuevo tipo Valle en verde claro, Vacaciones en verde oscuro y tipos de dia personalizados con nombre y color propios. Los tipos personalizados se guardan en el backup JSON y se respetan al rellenar patrones.",
-  "url": "https://github.com/rodyk21/registron360-updates/raw/main/RGTN360.apk",
+  "version": "1.0.9",
+  "mensaje": "Corrige el boton Descargar actualizaciones. Incluye Valle en verde claro, Vacaciones en verde oscuro y tipos de dia personalizados con nombre y color propios en la agenda.",
+  "url": "https://raw.githubusercontent.com/rodyk21/registron360-updates/refs/heads/main/RGTN360.apk",
   "obligatoria": false,
   "features": [
+    "boton Descargar sin bloqueos por la comprobacion previa del navegador",
     "Valle en verde claro y Vacaciones en verde oscuro",
     "tipos de dia con nombre y color personalizados",
     "edicion de tipos desde la agenda",
