@@ -1,9 +1,15 @@
 {
-  "version": "1.0.9",
-  "mensaje": "Corrige el boton Descargar actualizaciones. Incluye Valle en verde claro, Vacaciones en verde oscuro y tipos de dia personalizados con nombre y color propios en la agenda.",
+  "version": "1.0.10",
+  "mensaje": "Corrige el aviso vacio de las 7:30 y permite desactivar el resumen matutino. Los avisos respetan los interruptores y leen los turnos de la agenda. Recupera Manana antes de las 08:00 y registra Valle y Vacaciones al abrir o volver a la app, sin sobrescribir registros existentes.",
   "url": "https://raw.githubusercontent.com/rodyk21/registron360-updates/refs/heads/main/RGTN360.apk",
   "obligatoria": false,
   "features": [
+    "resumen matutino opcional, sin avisos vacios",
+    "desactivar avisos cancela sus alarmas pendientes",
+    "recordatorios tambien para turnos previstos en la agenda",
+    "registro por ubicacion respeta las franjas antes de las 08:00",
+    "Valle y Vacaciones se completan al abrir o volver a la app",
+    "registros manuales protegidos frente al automatico",
     "boton Descargar sin bloqueos por la comprobacion previa del navegador",
     "Valle en verde claro y Vacaciones en verde oscuro",
     "tipos de dia con nombre y color personalizados",
