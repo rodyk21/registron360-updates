@@ -1,9 +1,11 @@
 {
-  "version": "1.0.11",
-  "mensaje": "Mejora la carga del Historial leyendo las notas de agenda en una sola consulta y evita reprogramar alarmas dos veces al arrancar. Incluye las correcciones de avisos y el registro de Valle y Vacaciones de la version 1.0.10.",
+  "version": "1.0.12",
+  "mensaje": "Repara el acceso a Internet del APK de distribucion para consultar actualizaciones. Creditos muestra claramente la version instalada. Incluye las mejoras de carga del Historial, avisos y registro de Valle y Vacaciones.",
   "url": "https://raw.githubusercontent.com/rodyk21/registron360-updates/refs/heads/main/RGTN360.apk",
   "obligatoria": false,
   "features": [
+    "permiso de Internet incluido en el APK de distribucion",
+    "Creditos muestra la version instalada sin sustituirla por la remota",
     "carga de notas del Historial en una sola consulta",
     "arranque sin reprogramacion duplicada de alarmas",
     "refrescos del Historial sin ocultar de nuevo los registros",
